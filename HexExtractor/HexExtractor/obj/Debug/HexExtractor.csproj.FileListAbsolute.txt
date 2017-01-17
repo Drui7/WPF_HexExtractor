@@ -1,0 +1,14 @@
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\bin\Debug\HexExtractor.exe.config
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\bin\Debug\HexExtractor.exe
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\bin\Debug\HexExtractor.pdb
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor.csprojResolveAssemblyReference.cache
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\MainWindow.g.cs
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\App.g.cs
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor_MarkupCompile.cache
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor_MarkupCompile.lref
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\MainWindow.baml
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor.g.resources
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor.Properties.Resources.resources
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor.csproj.GenerateResource.Cache
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor.exe
+D:\БАРАХЛО\Проекты\HexExtractor\HexExtractor\obj\Debug\HexExtractor.pdb
